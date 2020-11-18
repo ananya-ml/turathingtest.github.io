@@ -1,15 +1,15 @@
 // Quiz result options in a separate object for flexibility
 var resultOptions = [
-    {   title: 'You Are This Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/tXTjD9k.jpg"/>'},
-    {   title: 'You Are That Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/dipkE0v.jpg"/>'},
-    {   title: 'You Are This Other Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/WXox0Yv.jpg"/>'},
-    {   title: 'You Are This One Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
-    {   title: 'You Are A Type Of Thing',
-        desc: '<p>Here, have an Archer</p><img src="https://i.imgur.com/NH5cunw.png"/>'}
+    {   title: 'Congratulations, you passed the Turathing Test!',
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+    {   title: 'Congratulations, you passed the Turathing Test!',
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+    {   title: 'Congratulations, you passed the Turathing Test!',
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+    {   title: 'Congratulations, you passed the Turathing Test!',
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+    {   title: 'Congratulations, you passed the Turathing Test!',
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'}
 ];
     
 // global variables
