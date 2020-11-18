@@ -97,7 +97,7 @@ div.starfield .moving-3 {
     left: 45%;
     z-index: 1;
     margin: auto;
-    animation: logo 9s ease-out 9s;
+    animation: logo 4s ease-out 9s;
     opacity: 0;
 }
 
