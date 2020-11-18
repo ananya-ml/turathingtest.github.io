@@ -127,7 +127,7 @@ p {
   color: #FFFF82;
 }
 button {
-  padding-left:50px;
+  justify-content: center;
   background-color: #FFE81F; 
   border: none;
   cursor: pointer;
