@@ -142,6 +142,7 @@ button:hover {background-color: #F9D71C}
 button:active {
   background-color: #FFE81F;
   transform: translateY(4px);
+}
 
 /* Set the font, lean the board, position it */
 #board {
