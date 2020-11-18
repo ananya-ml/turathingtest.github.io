@@ -38,6 +38,6 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/64248612/99178260-391fc500-2737-11eb-9f99-562be964e468.gif')";
+  document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/74660593/99561674-3948ea80-29ed-11eb-9461-9e0eb8cfdb6f.gif')";
  alert("HAPPY BIRTHDAY");
 }
