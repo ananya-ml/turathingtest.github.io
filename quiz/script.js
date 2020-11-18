@@ -1,15 +1,15 @@
 // Quiz result options in a separate object for flexibility
 var resultOptions = [
     {   title: 'Congratulations, you passed the Turathing Test!',
-        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://user-images.githubusercontent.com/74660593/99560391-d3a82e80-29eb-11eb-951d-f44a99ea1da6.png"/>'},
     {   title: 'Congratulations, you passed the Turathing Test!',
-        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://user-images.githubusercontent.com/74660593/99560391-d3a82e80-29eb-11eb-951d-f44a99ea1da6.png"/>'},
     {   title: 'Congratulations, you passed the Turathing Test!',
-        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://user-images.githubusercontent.com/74660593/99560391-d3a82e80-29eb-11eb-951d-f44a99ea1da6.png"/>'},
     {   title: 'Congratulations, you passed the Turathing Test!',
-        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'},
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://user-images.githubusercontent.com/74660593/99560391-d3a82e80-29eb-11eb-951d-f44a99ea1da6.png"/>'},
     {   title: 'Congratulations, you passed the Turathing Test!',
-        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://i.imgur.com/NH5cunw.png"/>'}
+        desc: '<p>You, Rathin, are a superhuman. You incorporate the best parts of both man and machine. You are as kind as you are smart, and an absolute joy to talk to. Never change. Oh and also, Happy Birthday! Here, have some coffee almond cake from French Window Patisserie.</p><img src="https://user-images.githubusercontent.com/74660593/99560391-d3a82e80-29eb-11eb-951d-f44a99ea1da6.png"/>'}
 ];
     
 // global variables
